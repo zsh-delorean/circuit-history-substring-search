@@ -2,7 +2,7 @@
 # DeLorean history-substring-search circuit.
 #
 
-circuit 'editor' 'syntax-highlighting'
+circuit 'syntax-highlighting'
 
 function circuit-history-substring-search {
 
